@@ -138,6 +138,15 @@ section h2 {
   text-decoration: underline;
 }
 
+/* Link whatsapp */
+.link-whatsapp {
+    height: 60px;
+    position: fixed;
+    right: 20px;
+    bottom:13% ;
+    z-index: 9999;
+}
+
 /* Rodapé */
 .main-footer {
   background-color: #f2d4e6;
