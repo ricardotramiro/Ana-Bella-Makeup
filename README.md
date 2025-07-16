@@ -42,3 +42,4 @@ Praticar e demonstrar habilidades com HTML, CSS e design responsivo em um projet
 ---
 
 **⚠️ Projeto fictício — desenvolvido apenas para fins educacionais e portfólio**
+<img src="https://github.com/ricardotramiro/Ana-Bella-Makeup/blob/main/assets/Capa%20Readme%20Ana.png?raw=true">
